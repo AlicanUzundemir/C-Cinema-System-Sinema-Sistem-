@@ -1,0 +1,26 @@
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.exe
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.deps.json
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.runtimeconfig.json
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.dll
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.pdb
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.csprojAssemblyReference.cache
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.dll
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.pdb
+C:\Users\Siliconmade Academy\source\repos\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.genruntimeconfig.cache
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.exe
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.deps.json
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.runtimeconfig.json
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.runtimeconfig.dev.json
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.dll
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\bin\Debug\netcoreapp3.1\SinemaUygulamasiG012.pdb
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.csprojAssemblyReference.cache
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.AssemblyInfoInputs.cache
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.AssemblyInfo.cs
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.dll
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.pdb
+C:\Users\Alican\Desktop\SİNEMA\SinemaUygulamasiG012\SinemaUygulamasiG012\obj\Debug\netcoreapp3.1\SinemaUygulamasiG012.genruntimeconfig.cache

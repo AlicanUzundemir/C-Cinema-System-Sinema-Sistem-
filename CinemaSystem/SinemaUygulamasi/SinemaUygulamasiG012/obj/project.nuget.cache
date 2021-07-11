@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5crde1YZTFR9yieV5FNwAwq27epY3jPJ/dRJlHkuOypwRsI1uxXWworBWfBniR4wKXIserIyVK2XGCFzNjlqsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alican\\Desktop\\CinemaSystem\\SinemaUygulamasi\\SinemaUygulamasiG012\\SinemaUygulamasiG012.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alican\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
